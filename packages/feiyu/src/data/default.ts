@@ -1,7 +1,7 @@
 import { FeiyuConfig } from './config/types';
 
 export default {
-  proxy: 'https://reverse-api.666986.xyz/proxy',
+  proxy: 'https://feiyu-proxy-n5zgzgoq1-beeronices-projects.vercel.app/api/proxy',
   videoSources: [
     {
       key: '豆瓣资源',
