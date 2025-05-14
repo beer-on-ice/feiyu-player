@@ -1,7 +1,7 @@
 import { FeiyuConfig } from './config/types';
 
 export default {
-  proxy: 'https://feiyu-player-eight.vercel.app/api/proxy',
+  proxy: 'https://feiyu-proxy-azure.vercel.app/api/proxy',
   videoSources: [
     {
       key: '豆瓣资源',
