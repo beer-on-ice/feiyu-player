@@ -1,11 +1,23 @@
 import { FeiyuConfig } from './config/types';
 
 export default {
-  proxy: 'https://feiyu-proxy-azure.vercel.app/api/proxy',
+  proxy: 'https://feiyu-proxy.666986.xyz/api/proxy',
   videoSources: [
     {
-      key: '豆瓣资源',
-      api: 'https: //caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/xml',
+      "key": "视频源",
+      "api": "https://fqzy.me/api.php/provide/vod/at/xml"
+    },
+    {
+        "key": "视频源2",
+        "api": "https://mozhuazy.com/api.php/provide/vod/at/xml"
+    },
+    {
+        "key": "视频源3",
+        "api": "https://json.heimuer.xyz/api.php/provide/vod/at/xml"
+    },
+    {
+        "key": "视频源4",
+        "api": "https://cjhwba.com/api.php/provide/vod/at/xml"
     },
   ],
   hotMovies: [
