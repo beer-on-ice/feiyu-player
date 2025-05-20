@@ -4,8 +4,8 @@ export default {
   proxy: 'https://feiyu-proxy.666986.xyz/api/proxy',
   videoSources: [
     {
-      "key": "🔵电影天堂资源",
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod"
+      "key": "🔵黑木耳",
+      "api": "https://json.heimuer.xyz/api.php/provide/vod"
     },
     {
       "key": "🔵如意资源",
