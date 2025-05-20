@@ -1,16 +1,7 @@
 import { FeiyuConfig } from './config/types';
-
 export default {
   proxy: 'https://feiyu-proxy.666986.xyz/api/proxy',
   videoSources: [
-    {
-      "key": "🔵黑木耳",
-      "api": "https://json.heimuer.xyz/api.php/provide/vod/at/xml"
-    },
-    {
-      "key": "🔵华为吧",
-      "api": "https://cjhwba.com/api.php/provide/vod/at/xml"
-    },
     {
       "key": "电影天堂资源",
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml"
@@ -18,6 +9,14 @@ export default {
     {
       "key": "如意资源",
       "api": "https://cj.rycjapi.com/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "🔵黑木耳",
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "🔵华为吧",
+      "api": "https://cjhwba.com/api.php/provide/vod/at/xml"
     },
     {
       "key": "金蝉资源",
